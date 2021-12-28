@@ -8,9 +8,6 @@
 #ifndef CUSTOM_TYPES_H
 #define	CUSTOM_TYPES_H
 
-/**
- * @param dfdsfs
- */
 typedef union {
     uint8_t statusWord;
     struct {
